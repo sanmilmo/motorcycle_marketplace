@@ -1,5 +1,15 @@
-To start the server, run `nodemon server.js`
+# Motorcycle Marketplace
+ 
+## Installation
+- Install node
+- Install nodemon
 
-Modify the `server.js` file to add endpoints
+#
+## Build
+`npm install`
 
-The frontend code goes in the `/src` directory
+#
+## Run
+`nodemon server.js`
+
+#
